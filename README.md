@@ -15,8 +15,12 @@ This is my personal playground for building reusable UI components using **React
 1. Clone the repository:
    ```bash
    git clone https://github.com/katkaun/katkaun-components.git
+   ```
 2. Install dependencies:
+   ```bash
    npm install
+   ```
 3. Start Storybook:
+   ```bash
     npm run storybook
     ```
